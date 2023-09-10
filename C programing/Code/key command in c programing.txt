@@ -1,0 +1,56 @@
+***** A TO Z            ------>  65 TO 90
+
+***** a TO z            ------>  97 To 122 
+
+***** 0 TO 9            ------>  48 TO 57
+
+***** F1 TO F10         ------>  59 T0 68
+
+                            **** F11 , F12 , crt + F11 , crt + F12
+ , alt + F11 , alt + F12  ------>  224
+
+ 
+ ONLY F11          ------>  133
+
+ ONLY F12          ------>  134
+
+crt+A TO crt+Z     ------>  1 TO 26
+
+crt+a TO crt+z     ------>  1 TO 26
+
+crt+F1 TO crt+F10  ------> 94 TO 103
+
+crt+0 TO crt+9     ------>  noting
+
+alt+F1 TO alt+F10  ------> 104 TO 113
+  
+ ENTER             ------>  13
+ 
+ SPACE             ------>  32
+
+ BACKSPACE         ------>   8
+
+ TAB               ------>   9
+
+ UP ARROW          ------>  72
+ 
+ DOWN ARROW        ------>  80
+ 
+ RIGHT ARROW       ------>  77
+
+ LEFT ARROW        ------>  75
+
+crt + UP ARROW     ------>  141
+ 
+crt + DOWN ARROW   ------>  145
+ 
+crt + RIGHT ARROW  ------>  116
+
+crt + LEFT ARROW   ------>  115
+
+
+
+
+ 
+
+
